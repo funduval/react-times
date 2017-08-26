@@ -1,0 +1,57 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.appTitle{
+
+	margin-top: 14px;
+	font-family: serif;
+	font:times;
+	font-weight: bold;
+	-webkit-text-stroke-width: 1px;
+   -webkit-text-stroke-color: black;
+}
+
+#search {
+margin-top: 14px;
+	border-color: grey;
+	border-style: solid;
+	border-width: 4px;
+	margin-left: 40px;
+	margin-right: 0px;
+
+}
+
+#results {
+	margin-top: 14px;
+
+	border-color: grey;
+	border-style: solid;
+	border-width: 4px;
+	margin-right: 40px;
+	margin-left: 0px;
+
+}
+
+#saved{
+	margin-top: 14px;
+
+	border-color: grey;
+	border-style: solid;
+	border-width: 4px;
+	margin-right: 40px;
+	margin-left: 0px;
+
+
+}
+
+.App-header{
+
+	background-image: url('./nytimes-headquarters.jpg');
+	height:360px;
+	border-bottom: solid grey;
+	border-bottom-width: 4px;
+	
+}
