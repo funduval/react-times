@@ -10,7 +10,7 @@ render() {
 
 return (
 
-	<div className="d-inline-flex p-12" id="saved">
+	<div className="col-md-11" id="saved">
               <h3>Saved Articles</h3>
 	</div>
 ); 
@@ -19,4 +19,4 @@ return (
 
 } 
 
-export { Saved as default };
+export { Saved as default }
